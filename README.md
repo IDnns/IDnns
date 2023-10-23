@@ -9,7 +9,7 @@ Among my favorite hobbies, I enjoy virtualize machines and programming desktop a
 
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
+![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white) ![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <!--
 **IDnns/IDnns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
