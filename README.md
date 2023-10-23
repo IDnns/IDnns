@@ -1,9 +1,15 @@
-# About Me
+# 🌠 About Me
 
 
 Hi! I'm Dennis, **a Salvadorean Full-Stack developer and a Cybersecurity Agent** 🌐 . In this profile you will find some tips and codes about web development, programming and cybersecurity 🛡️!
 Among my favorite hobbies, I enjoy virtualize machines and programming desktop apps. 💻
 
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mynameis_0)
+
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/C++-#00599C?style=for-the-badge&logo=cplusplus) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) [Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 <!--
 **IDnns/IDnns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
